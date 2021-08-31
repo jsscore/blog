@@ -4,7 +4,7 @@ siteName: JSS
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
-url: https://sakura.hojun.cn
+url: https://jsscore.github.io/blog/
 description: Live your life with passion! With some drive!
 cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
 pjax: 1
@@ -68,7 +68,7 @@ startdash:
 
 
 # your site build time or founded date
-siteBuildingTime: 07/17/2018
+siteBuildingTime: 09/01/2021
 
 #social  url, img PC端配置
 social:

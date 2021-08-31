@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: /
-root: /
+url: http://jsscore.github.io/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -86,12 +86,12 @@ deploy:
   branch: Sakura
 
 # backup
-backup:
-  type: git
-  message: backup my blog of https://jsscore.github.io/
-  repository:
-    github: https://github.com/jsscore/blog.git,backup
-    # coding: https://git.coding.net/hojun/hojun.git,backup
+#backup:
+#  type: git
+#  message: backup my blog of https://jsscore.github.io/
+#  repository:
+#    github: https://github.com/jsscore/blog.git,backup
+#    # coding: https://git.coding.net/hojun/hojun.git,backup
 
 #RSS
 feed:
@@ -103,3 +103,4 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
